@@ -1,4 +1,4 @@
-# Finance-of-Future
+# Finance-of-Future (G50)
 Jogo de educação financeira gamificado para jovens de 18-24 anos, no qual o personagem principal, Mikael, passa por viagens no tempo para entender tópicos essenciais de finanças pessoais.
 
 # Objetivo do projeto 
