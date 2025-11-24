@@ -23,6 +23,6 @@ O projeto se compromete a trazer em pauta os seguintes temas:
 6. Renda Variável - Se arriscando um pouco mais: falar sobre fundos de investimentos, ações e finanças corporativas.
 
 Mais detalhes são encontrados em: 
-Escopo do Projeto:
-Código inicial:
-Vídeo explicativo:
+* Escopo do Projeto:
+* Código inicial:
+* Vídeo explicativo:
